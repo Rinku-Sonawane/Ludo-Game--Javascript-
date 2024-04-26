@@ -1,2 +1,2 @@
 # Ludo-Game-Javascript
-My Ludo Game complete in Javascript 
+My Ludo Game completed in Javascript 
